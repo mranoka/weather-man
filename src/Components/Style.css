@@ -1,0 +1,46 @@
+#main-container {
+    margin-top: 2px;
+    color: rgb(92, 92, 138);
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(85, 255, 0);
+    border-radius: 20px;
+}
+
+#chosen-city {
+    position: relative;
+    margin-left: 30px;
+    font-size: 55px;
+    font-family: serif;
+}
+
+#stats-display {
+    margin-top: 25px;
+}
+
+#stats-list li {
+    list-style-type: none;
+    font-size: 25px;
+    font-size: monospace, sans-serif;
+    font-weight: 900;
+}
+
+#options-list {
+    margin-top: 50px;
+    margin-left: 0px;
+    font-size: 25px;
+}
+
+small {
+    font-weight: 900;
+    color: black;
+}
+
+#main-heading {
+    font-size: 55px;
+    font-family: monospace, sans-serif;
+}
+
+.stats-item {
+    color: white;
+}
